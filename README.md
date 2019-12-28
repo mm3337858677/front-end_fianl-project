@@ -2,20 +2,20 @@
 ----
 ## 图片展示
 - card页面
-![card](img/card.png)
+![card](/img/card.png)
 ![card1](/img/card1.png)
 
 - index页面
-![index](../img/index.png)
+![index](/img/index.png)
 
 - nav页面
-![nav](../img/nav.png)
+![nav](/img/nav.png)
 
 - 微信商城
-![smart](../img/smart.png)
+![smart](/img/smart.png)
 
 - Mpvue框架
-![gihub](../img/github.png)
+![gihub](/img/github.png)
 
 - 仿京东
-![fjd](../img/fjd.png)
+![fjd](/img/fjd.png)
