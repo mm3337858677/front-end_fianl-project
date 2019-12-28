@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "Simple-store",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {}
+}
